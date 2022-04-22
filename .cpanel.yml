@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dogenqov/app.dogen.website
+    - export DEPLOYPATH=/home/dogenqov/app.dogen.website/
     - /bin/cp * $DEPLOYPATH
